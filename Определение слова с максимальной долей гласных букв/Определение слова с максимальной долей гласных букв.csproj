@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Определение_слова_с_максимальной_долей_гласных_букв</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,2 @@
+# Definition_of_a_word_with_a_maximum_vowel_rate
+ Definition_of_a_word_with_a_maximum_vowel_rate
